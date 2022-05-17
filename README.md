@@ -1,15 +1,31 @@
-# desafio-frontend
-Desafio técnico de frontend
+# Desafio Frontend da Kestraa
+Nesse desafio você irá criar uma listagem de **Invoices** com ordenação, utilizando uma api.
 
-##### ORIENTAÇÕES:
-- Criar branch com o padrão: kestraa/{nome}-{sobrenome}
-- Abrir PR para esse repositório ao concluir
-- Usar no titulo do PR o seguinte padrão: "kestraa/{nome}-{sobrenome} to main"
+O resultado final deve se parecer com o seguinte layout:
 
+![02](https://user-images.githubusercontent.com/44592272/168881373-362daec0-3789-41d1-9b12-e1b97e67d313.png)
 
-<img width="767" alt="01" src="https://user-images.githubusercontent.com/44592272/168874464-b66fe4e6-042c-4d90-ba49-dc920a098001.png">
+Sinta-se a vontade para fazer ajustes de melhoria visual e usabilidade.
 
+#### Requisitos técnicos obrigatórias:
+- As colunas **Number** e **Status** devem ser ordenáveis como ASC e DESC.
+- O layout deve ser responsivo com no mínimo um breakpoint. (para mobile)
+- Utilize react com hooks.
+- Utilize a seguinte api: https://retoolapi.dev/ts19Cx/invoices
+- Crie um readme explicando como iniciar sua aplicação. 
+- Criar css e html manualmente. (sem uso de frameworks)
 
+#### Requisitos técnicos opcionais:
+- Utilize typescript.
+- Testes unitários.
+- Ordenação por data.
+- Utilizar prettier e eslint.
 
-https://user-images.githubusercontent.com/44592272/168874484-812f62b0-7ccb-428b-a9f8-9b5d0f89bec0.mp4
+#### Critérios de avaliação:
+- Estrutura. (Arquitetura e Componentização)
+- Versionamento. (Git)
+- Qualidade de código.
+- Layout.
 
+## Ao finalizar seu projeto
+Suba seu projeto no seu perfil pessoal do github em um link público e nos envie via email.
